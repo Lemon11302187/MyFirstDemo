@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 上拉加载更多的  pic    .9.png  -->
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/xlistview_footer_loading"
+    android:pivotX="50%"
+    android:pivotY="50%" />
